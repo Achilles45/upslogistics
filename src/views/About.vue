@@ -49,7 +49,7 @@
             <h3>WE ARE GROWING TOGETHER</h3>
             <p>
               Our core business relation is about people and we put people at
-              them core of our business. Your growth is our priority. We enable
+              the core of our business. Your growth is our priority. We enable
               businesses buy providing top notch logistics services. You want
               quality logistics services, try us today.
             </p>
