@@ -10,8 +10,7 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-          <p>Isabelladangello11@gmail.com</p>
-          <p>Ericlogan533@gmail.com</p>
+          <p>upslogistics@gmail.com</p>
           <h6>You can also contact us at</h6>
           <p>Al Khabaisi Area Dubai UAE</p>
         </div>
@@ -22,7 +21,6 @@
             <li><router-link to="/about"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;About Us</router-link></li>
             <li><router-link to="/contact"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Contact Us</router-link></li>
             <li><router-link to="/request"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Service request</router-link></li>
-            <li><router-link to="/tracking"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Track your goods</router-link></li>
           </ul>
         </div>
         <div class="col-md-4">
