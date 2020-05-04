@@ -27,7 +27,7 @@
               </div>
               <div class="details__body">
                 <small>SEND US EMAIL ON</small>
-                <p>jm8738271@gmail.com</p>
+                <p>upscostumerexperience@gmail.com</p>
               </div>
             </div>
             <div class="details__card d-flex jusity-content-between">
