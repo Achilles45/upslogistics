@@ -10,9 +10,9 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-          <p>upslogistics@gmail.com</p>
+          <p>jm8738271@gmail.com</p>
           <h6>You can also contact us at</h6>
-          <p>Al Khabaisi Area Dubai UAE</p>
+          <p>Tasjeel Dubai-Ali</p>
         </div>
         <div class="col-md-4">
           <h3>Useful Links</h3>

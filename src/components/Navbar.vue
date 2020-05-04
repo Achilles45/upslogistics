@@ -7,7 +7,7 @@
         <div class="navbar__logo pt-2">
           <router-link to="/" class="logo">
           <h5><img src="../assets/images/logo.jpg" class="logo__img" alt=""
-          /> <span class="blue">UPS</span> <span class="red">LOGISTICS</span></h5>
+          /> </h5>
           </router-link>
         </div>
         <div class="navbar__links">

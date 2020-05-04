@@ -18,7 +18,7 @@
               </div>
               <div class="details__body">
                 <small>WE ARE ON<br /> 08:00 AM - 10:00 P.M</small>
-                <p></p>
+                <p>+971551963561</p>
               </div>
             </div>
             <div class="details__card d-flex jusity-content-between">
@@ -27,7 +27,7 @@
               </div>
               <div class="details__body">
                 <small>SEND US EMAIL ON</small>
-                <p>globalexport1courierservicesx@gmail.com</p>
+                <p>jm8738271@gmail.com</p>
               </div>
             </div>
             <div class="details__card d-flex jusity-content-between">
@@ -36,7 +36,7 @@
               </div>
               <div class="details__body">
                 <small>MEET US AT</small>
-                <p>Al Khabaisi Area Dubai UAE</p>
+                <p>Tasjeel Dubai-Ali</p>
               </div>
             </div>
           </div>
