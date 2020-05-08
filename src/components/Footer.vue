@@ -10,7 +10,7 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-            <a href="mailto:upscourierservicexx.net">upscourierservicexx.net</a>
+            <a href="mailto:Upscourierservicexx@gmail.com">Upscourierservicexx@gmail.com</a>
           <h6>You can also contact us at</h6>
           <p>Tasjeel Dubai-Ali</p>
         </div>
