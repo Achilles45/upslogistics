@@ -6,8 +6,8 @@
       >
         <div class="navbar__logo pt-2">
           <router-link to="/" class="logo">
-          <h5><img src="../assets/images/logo.jpg" class="logo__img" alt=""
-          /> </h5>
+           <h5><img src="../assets/images/logo2.png" class="logo__img" alt=""
+          /> <span class="blue">UPS</span> <span class="red">LOGISTICS</span></h5>
           </router-link>
         </div>
         <div class="navbar__links">
@@ -75,7 +75,7 @@ export default {
     color:red;
   }
   .logo__img {
-    max-width: 40px;
+    max-width: 90px;
     height: auto;
   }
   ul {
