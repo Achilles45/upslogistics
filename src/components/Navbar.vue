@@ -6,8 +6,8 @@
       >
         <div class="navbar__logo pt-2">
           <router-link to="/" class="logo">
-           <h5><img src="../assets/images/logo2.png" class="logo__img" alt=""
-          /> <span class="blue">WORLD</span> <span class="red">GLOBAL EXPRESS</span></h5>
+           <h5><img src="../assets/images/logo3.jpg" class="logo__img" alt=""
+          /></h5>
           </router-link>
         </div>
         <div class="navbar__links">
@@ -63,6 +63,10 @@ export default {
   z-index: 100;
   .logo{
        text-decoration: none !important;
+        .logo__img{
+    max-width: 70px;
+    height: auto;
+  }
   }
   h5{
     font-weight: bolder;
