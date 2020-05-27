@@ -7,7 +7,7 @@
         <div class="navbar__logo pt-2">
           <router-link to="/" class="logo">
            <h5><img src="../assets/images/logo3.jpg" class="logo__img" alt=""
-          /></h5>
+          /> <span class="blue">UNITED</span> <span class="red">PERCEL SERVICE</span></h5>
           </router-link>
         </div>
         <div class="navbar__links">
@@ -63,10 +63,10 @@ export default {
   z-index: 100;
   .logo{
        text-decoration: none !important;
-        .logo__img{
-    max-width: 70px;
-    height: auto;
-  }
+       .logo__img{
+         max-width: 60px;
+         height: auto;
+       }
   }
   h5{
     font-weight: bolder;
@@ -92,12 +92,12 @@ export default {
       margin: 0 0.6rem;
       font-weight: bold;
       &:hover {
-        color: #2ecc71;
+        color: #FF5800;
         transition: all ease-in-out 0.5s;
       }
     }
     .quote__btn {
-      background: #2ecc71;
+      background: #FF5800;
       padding: 1rem 2rem;
       border-radius: 3px;
       opacity: 1 !important;

@@ -91,7 +91,7 @@ footer {
       padding: 0.3rem 0.5rem;
     }
     .newsletter__btn {
-      background: #052c7d;
+      background: #FF5800;
       color: #fff;
       padding: 1rem 2.5rem;
       border-radius: 50px;

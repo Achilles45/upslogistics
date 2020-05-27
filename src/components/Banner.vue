@@ -13,7 +13,7 @@
         </div>
         <div class="carousel-item">
           <div class="carousel-overlay"></div>
-          <img class="carousel-img" src="../assets/images/slider-1.jpg" alt="Second slide" />
+          <img class="carousel-img" src="../assets/images/slider-3.jpg" alt="Second slide" />
           <div class="carousel-caption">
             <h5>Reliable and Flexible Logistics</h5>
             <h2 class="animated slideInLeft animate2d">Send and receive pakages around the world easily</h2>
@@ -25,7 +25,7 @@
         </div>
         <div class="carousel-item">
           <div class="carousel-overlay"></div>
-          <img class="carousel-img" src="../assets/images/slider-3.jpg" alt="Third slide" />
+          <img class="carousel-img" src="../assets/images/slider-1.jpg" alt="Third slide" />
           <div class="carousel-caption">
             <h2
               class="animated slideInDown animate3d"
@@ -76,7 +76,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(4, 9, 30, 0.9);
+    background: rgba(0, 0, 0, 0.9);
   }
   .carousel-img {
     width: auto;

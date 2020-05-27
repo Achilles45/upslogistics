@@ -202,7 +202,7 @@ export default {
     }
   }
   .newsletter {
-    background: #2761d8;
+    background: #FF5800;
     color: #fff;
     padding: 2rem 0;
     h3{

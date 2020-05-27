@@ -22,7 +22,7 @@ export default {
 
 <style lang="scss" scoped>
 .topbar{
-    background: #052c7d;
+    background: #FF5800;
     color:#fff;
     p{
         font-size: .8rem;

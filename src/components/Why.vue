@@ -77,7 +77,7 @@ export default {}
       padding-bottom: 2rem;
     }
     .why__btn {
-      background: #052c7d;
+      background: #FF5800;
       color: #fff;
       text-decoration: none;
       border-radius: 4px;

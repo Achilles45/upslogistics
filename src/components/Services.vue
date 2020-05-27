@@ -60,7 +60,7 @@ export default {}
   .heading {
     padding-top: 2rem;
     p {
-      color: #052c7d;
+      color: #FF5800;
       font-size: 0.8rem;
       font-weight: bold;
     }
@@ -88,7 +88,7 @@ export default {}
         }
       }
       small {
-        color: #052c7d;
+        color: #FF5800;
         font-weight: bold;
       }
       h3 {

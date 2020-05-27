@@ -52,7 +52,7 @@ export default {
   width: 100%;
   z-index: 1000 !important;
   .tracking__wrapper{
-    background: #052c7d;
+    background: #FF5800;
     padding: 1.5rem 5rem;
     border-radius: 8px;
     color: #fff;
@@ -78,7 +78,7 @@ export default {
         border: none;
         border-radius: 3px;
         cursor: pointer;
-        background: #2ECC71;
+        background: #000;
         color:#fff;
         font-size: .9rem;
       }
