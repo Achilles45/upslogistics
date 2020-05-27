@@ -32,7 +32,7 @@
             </div>
             <div class="details__card d-flex jusity-content-between">
               <div class="icon__holder">
-               <i class="fa fa-envelope"></i>kiiiiiu
+               <i class="fa fa-envelope"></i>
               </div>
               <div class="details__body">
                 <small>MEET US AT</small>

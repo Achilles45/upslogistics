@@ -55,7 +55,7 @@ export default {
 
 <style lang="scss" scoped>
 .navbar__wrapper {
-  background: #fff;
+  background: #FF5800;
   // box-shadow: 3px 0px 3px rgba(0, 0, 0, 0.4);
   color: #fff;
   padding: .7rem 0;
